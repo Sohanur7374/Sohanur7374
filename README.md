@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sohanur7374
 - 👀 I’m interested in Web Application Development
-- 🌱 I’m currently working with PHP, Laravel, React.js,
+- 🌱 I’m currently working with Typescript, Mongodb
 
 <!---
 Sohanur7374/Sohanur7374 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
